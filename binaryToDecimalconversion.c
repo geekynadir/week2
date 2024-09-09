@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(){
-int binary,pow=1,r,res=0;
+int binary,pow=1,r;
+ long long res=0;
  printf("Enter any binary number\n");
  scanf("%d",&binary);
  printf("The Binary Number is %d\n",binary);
